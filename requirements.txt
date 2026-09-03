@@ -1,0 +1,6 @@
+typer
+rich
+requests
+Django
+Pillow
+djangorestframework
